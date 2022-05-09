@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gilneto7
+- 👋 Hi, I’m Gil Suassuna 
 - 👀 I estou migrando para o mundo da tecno logia.
 - 🌱  Atualmente estou me aperfeiçoando no fron e posteriomente no back. 
 - 💞️ I’m looking to  entrar na area da tecnologia para me dedicar ao maximo nesse vasto mundo. 
