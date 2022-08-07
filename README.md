@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Gil Suassuna 
-- 👀 I estou migrando para o mundo da tecno logia.
-- 🌱  Atualmente estou me aperfeiçoando no fron e posteriomente no back. 
-- 💞️ I’m looking to  entrar na area da tecnologia para me dedicar ao maximo nesse vasto mundo. 
-- 📫 How to reach me ... Linkedin.  https://www.linkedin.com/in/gil-suassuna-b1874879/
+- 👀 Eu estou migrando para o mundo da tecnologia.
+- 🌱  Atualmente estou me aperfeiçoando em Javascript, Node, Html e css.  
+- 💞️ Estou procurando entrar na area da tecnologia. 
+- 📫 How to reach me ... Linkedin.  https://br.linkedin.com/in/gil-suassuna-neto-b1874879
         
 
 <!---
